@@ -1,5 +1,5 @@
 project: rnshah9/tulipindicators
-target: tulipindicators
+target: cli
 
 cmds:
   - cmd: /repo/cli cos @@ out
