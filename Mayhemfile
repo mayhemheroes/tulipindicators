@@ -2,4 +2,4 @@ project: tulipindicators
 target: cli
 
 cmds:
-  - cmd: /repo/cli cos @@ out
+  - cmd: /cli cos @@ out
